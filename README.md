@@ -1,9 +1,9 @@
-LeetScore - A web app to track and visualize your LeetCode progress and performance.
+LeetScore - A frontend of a web app to track and visualize your LeetCode progress and performance.
 
 Tech Stack:
-HTML - for structure
-CSS - for styling
-JavaScript - for interactivity
+1. HTML - for structure
+2. CSS - for styling
+3. JavaScript - for interactivity
 
 The info shown on the page includes - 
 1. Questions Solved - Total Questions Solved, Easy, Medium and Hard
